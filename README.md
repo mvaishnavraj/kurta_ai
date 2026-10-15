@@ -1,3 +1,4 @@
+
 # 🧥 Kurta Fabric Classification & Image Processing Pipeline
 
 An end-to-end Deep Learning and Computer Vision pipeline designed for Indian ethnic wear (Kurta & Kurti). This project covers automated dataset crawling, quality filtering, transfer learning with **MobileNetV2** in PyTorch, fabric/material classification (`Cotton`, `Linen`, `Nylon`, `Silk`), and automated batch inference with spreadsheet reporting.
@@ -249,3 +250,6 @@ If `True`, `train_model.py` and `predict_material.py` will leverage GPU accelera
 
 ## 📜 License
 This project is open-source and intended for educational and fashion research applications.
+=======
+# kurta_ai
+An image classification project using Python, PyTorch, and MobileNetV2 to classify kurta fabrics into different material categories using deep learning.
