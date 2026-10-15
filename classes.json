@@ -1,0 +1,19 @@
+{
+  "classes": [
+    "cotton",
+    "linen",
+    "nylon",
+    "silk"
+  ],
+  "class_to_idx": {
+    "cotton": 0,
+    "linen": 1,
+    "nylon": 2,
+    "silk": 3
+  },
+  "model_backbone": "mobilenet_v2",
+  "image_size": [
+    224,
+    224
+  ]
+}
